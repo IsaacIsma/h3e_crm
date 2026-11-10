@@ -1,0 +1,2 @@
+[functions.create-ambassador-account]
+verify_jwt = true

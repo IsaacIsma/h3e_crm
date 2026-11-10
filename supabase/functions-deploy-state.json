@@ -1,0 +1,9 @@
+{
+  "projectId": "71679199",
+  "functions": {
+    "create-ambassador-account": {
+      "hasChanged": false,
+      "hash": "bc62862b114aecd90b63df0edca1d746c670585c77a9abc80709d7dad50f37ce"
+    }
+  }
+}
